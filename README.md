@@ -30,10 +30,6 @@ Foram utilizadas chaves primárias e estrangeiras para relacionar as tabelas.
 3. Execute o script.
 4. Confira as tabelas criadas no banco de dados.
 
-## 📷 Demonstração
-
-Adicione aqui uma captura de tela do banco funcionando no MySQL Workbench.
-
 ## 👨‍💻 Autor
 
 Arthur França Rodrigues
